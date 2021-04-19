@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Gutenberg Term Descriptions
-Plugin Description: Добавляет к селекту термов в редакторе постов описание из поля description терма
+Description: Добавляет к селекту термов в редакторе постов описание из поля description терма
 */
 
 function myguten_enqueue() {
