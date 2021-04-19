@@ -1,0 +1,13 @@
+{
+  "name": "guten-test",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@wordpress/scripts": "^14.1.1"
+  },
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  }
+}
